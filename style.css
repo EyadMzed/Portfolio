@@ -273,11 +273,6 @@ section
         {
             padding: 80px 20px;
         }
-    #main
-        {
-            background-position: left;
-            background-size:auto;
-        }
     #main h2
         {
             font-size: 1em;
