@@ -273,13 +273,13 @@ section
         {
             padding: 80px 20px;
         }
+    #main
+        {
+            background-position: left;
+        }
     #main h2
         {
             font-size: 1em;
-        }
-        #main
-        {
-            background-position: left;
         }
     #main h3
         {
@@ -307,7 +307,7 @@ section
     {
         min-height: 5em;
         overflow: hidden;
-        margin: 0 auto;
+        margin: 20px auto;
     }
 }
 
