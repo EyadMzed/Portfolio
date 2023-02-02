@@ -295,6 +295,14 @@ section
             flex-direction: column;
             align-items: center;
         }
+        .logo
+        {
+            font-size: 2.5em;
+        }
+        .navigation a
+        {
+            font-size: 1.8em;
+        }
 }
 @media (max-width:641px){
     body{
@@ -313,7 +321,7 @@ section
         min-height: 5em;
         overflow: hidden;
         margin: 20px auto;
-        width: 90%;
+        width: 80%;
     }
 }
 
