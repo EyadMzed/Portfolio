@@ -277,6 +277,10 @@ section
         {
             font-size: 1em;
         }
+        #main
+        {
+            background-position: left;
+        }
     #main h3
         {
             font-size: 1.6em;
